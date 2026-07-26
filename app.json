@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "iPadOS Notetaking App",
+    "slug": "notetaking-app",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.notetaking.ipadosapp",
+      "infoPlist": {
+        "UIRequiresFullScreen": false
+      }
+    }
+  }
+}
